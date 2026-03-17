@@ -71,7 +71,7 @@ Data saved!
 📸 Screenshot – Input Data
 👉 (Insert screenshot showing data input and "Data saved!")
 
-[ INSERT OPTION 1 SCREENSHOT HERE ]
+[ INSERT OPTION sc.1.png SCREENSHOT HERE ]
 2️⃣ Built-in Summary
 This option shows statistical details of the entered data:
 
@@ -97,7 +97,7 @@ Average: 25.0
 📸 Screenshot – Built-in Summary
 👉 (Insert screenshot showing summary output)
 
-[ INSERT OPTION 2 SCREENSHOT HERE ]
+[ sc.2.png]
 3️⃣ Factorial (Using Recursion)
 This option calculates the factorial of a number using recursion.
 
