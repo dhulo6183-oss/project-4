@@ -88,7 +88,7 @@ Displays:
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.2.png" width="700"/>
+  <img src="sc.2.png" width="700"/>
 </p>
 
 ---
@@ -100,7 +100,7 @@ Calculates factorial using recursion.
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.3.png" width="700"/>
+  <img src="sc.3.png" width="700"/>
 </p>
 
 ---
@@ -112,7 +112,7 @@ Filters values based on a threshold.
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.4.png" width="700"/>
+  <img src="sc.4.png" width="700"/>
 </p>
 
 ---
@@ -127,7 +127,7 @@ Displays:
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.5.png" width="700"/>
+  <img src="sc.5.png" width="700"/>
 </p>
 
 ---
@@ -143,7 +143,7 @@ Returns:
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.6.png" width="700"/>
+  <img src="sc.6.png" width="700"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ Gracefully exits the application.
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.7.png" width="700"/>
+  <img src="sc.7.png" width="700"/>
 </p>
 
 ---
