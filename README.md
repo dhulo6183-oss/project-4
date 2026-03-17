@@ -36,9 +36,9 @@ It demonstrates important programming concepts such as:
 ✔️ Return multiple computed values  
 ✔️ Simple CLI interface  
 
+---
 
 ## 📋 Program Menu
-
 
 Input Data
 
@@ -69,9 +69,9 @@ Allows the user to enter numbers separated by spaces.
 
 📸 **Example Output**
 
-
-(sc.1.png)
-
+<p align="center">
+  <img src="Screenshots/sc.1.png" width="700"/>
+</p>
 
 ---
 
@@ -87,8 +87,9 @@ Displays:
 
 📸 **Example Output**
 
-  (sc.2.png)
-
+<p align="center">
+  <img src="Screenshots/sc.2.png" width="700"/>
+</p>
 
 ---
 
@@ -98,9 +99,9 @@ Calculates factorial using recursion.
 
 📸 **Example Output**
 
-
-  (sc.3.png)
-
+<p align="center">
+  <img src="Screenshots/sc.3.png" width="700"/>
+</p>
 
 ---
 
@@ -110,9 +111,9 @@ Filters values based on a threshold.
 
 📸 **Example Output**
 
-
-  (sc.4.png)
-
+<p align="center">
+  <img src="Screenshots/sc.4.png" width="700"/>
+</p>
 
 ---
 
@@ -125,9 +126,9 @@ Displays:
 
 📸 **Example Output**
 
-
-  (sc.5.png)
-
+<p align="center">
+  <img src="Screenshots/sc.5.png" width="700"/>
+</p>
 
 ---
 
@@ -141,8 +142,11 @@ Returns:
 
 📸 **Example Output**
 
-  (sc.6.png)
+<p align="center">
+  <img src="Screenshots/sc.6.png" width="700"/>
+</p>
 
+---
 
 ## ❌ 7. Exit Program
 
@@ -150,10 +154,17 @@ Gracefully exits the application.
 
 📸 **Example Output**
 
-  (sc.7.png)
+<p align="center">
+  <img src="Screenshots/sc.7.png" width="700"/>
+</p>
 
+---
 
 ## 📂 Project Structure
+
+## 📂 Project Structure
+
+
 Python-Data-Processing/
 │
 ├── projects.py
@@ -167,13 +178,6 @@ Python-Data-Processing/
 ├── sc.6.png
 └── sc.7.png
 
-
----
-
-## ▶️ How to Run
-
-```bash
-python projects.py
 🧠 Concepts Covered
 
 🔄 Loops
@@ -194,9 +198,3 @@ python projects.py
 
 Dhruv Prajapati
 
-
-
-
-
-
-## 📋 Program Menu
