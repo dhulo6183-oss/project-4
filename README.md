@@ -70,7 +70,7 @@ Allows the user to enter numbers separated by spaces.
 📸 **Example Output**
 
 <p align="center">
-  <img src="Screenshots/sc.1.png" width="700"/>
+  <img src="sc.1.png" width="700"/>
 </p>
 
 ---
